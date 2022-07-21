@@ -22,3 +22,4 @@ summary(h1)
 AIC(h3)
 AIC(h0)
 AICtab(h0,h1,h2,h3, base=TRUE, weights=TRUE)
+
