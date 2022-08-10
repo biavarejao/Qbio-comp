@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+#ignoring all html files
+*.hmtl
+#all zip files
+*.zip
+
+data/raster
+data/shapefiles
